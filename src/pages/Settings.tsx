@@ -264,7 +264,7 @@ const Settings: React.FC = () => {
               
               <div className="p-3 bg-gray-700/30 rounded-lg">
                 <div className="font-semibold text-white mb-2">Điều kiện thắng:</div>
-                <div className="text-gray-300">Kiểm soát >50% lãnh thổ hoặc điểm cao nhất khi hết giờ</div>
+                <div className="text-gray-300">Kiểm soát {'>'}50% lãnh thổ hoặc điểm cao nhất khi hết giờ</div>
               </div>
             </div>
           </div>
